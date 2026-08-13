@@ -1,5 +1,26 @@
 # 💫 About Me:
-# Hi, I'm Gaurav Jaiswal 👋<br><br>🚀 Product & GTM Leader turned AI Builder<br>💡 I build LLM-powered workflows that eliminate manual work at scale<br><br>## What I Build<br>- 🤖 Agentic workflows on n8n, Zapier & custom APIs<br>- 🧠 LLM-powered automations using structured prompts<br>- 🔄 Human-in-the-loop systems for high-risk processes<br>- 📊 End-to-end pipelines from data ingestion to actionable output<br><br>## Recent AI Projects<br>- 🏦 Dematerialisation pipeline — 1 hr → 5 min per request<br>- 📣 Social listening system (Reddit + Twitter) — used by founders & all pods<br>- 🎬 YouTube Sentiment Analyser — 10 sec vs hours of manual work<br><br>## Stack<br>n8n · Zapier · OpenAI · Gemini · REST APIs · Python · Google Sheets<br><br>## Background<br>Ex-Founder | Groww | MPL | Novartis<br>MBA, IIFT | B.Tech, NIT Trichy
+# Hi, I'm Gaurav Jaiswal 👋
+
+🚀 Product & GTM Leader turned AI Builder
+💡 I build LLM-powered workflows that eliminate manual work at scale
+
+## What I Build
+- 🤖 Agentic workflows on n8n, Zapier & custom APIs
+- 🧠 LLM-powered automations using structured prompts
+- 🔄 Human-in-the-loop systems for high-risk processes
+- 📊 End-to-end pipelines from data ingestion to actionable output
+
+## Recent AI Projects
+- 🏦 Dematerialisation pipeline — 1 hr → 5 min per request
+- 📣 Social listening system (Reddit + Twitter) — used by founders & all pods
+- 🎬 YouTube Sentiment Analyser — 10 sec vs hours of manual work
+
+## Stack
+n8n · Zapier · OpenAI · Gemini · REST APIs · Python · Google Sheets
+
+## Background
+Ex-Founder | Groww | MPL | Novartis
+MBA, IIFT | B.Tech, NIT Trichy
 
 
 ## 🌐 Socials:
